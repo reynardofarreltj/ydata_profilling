@@ -57,4 +57,10 @@ Berdasarkan temuan di atas, langkah-langkah pembersihan data berikut sangat dire
 3.  **Memvalidasi Integritas Data:**
     * Buat kolom baru untuk memvalidasi `Total Spent` dengan mengalikan `Price Per Unit` * `Quantity`. Bandingkan hasilnya dengan kolom `Total Spent` yang ada untuk menemukan diskrepansi.
 4.  **Standarisasi Data Kategorikal:**
-    * Periksa nilai unik di setiap kolom kategor
+    * Periksa nilai unik di setiap kolom kategori
+
+---
+
+## ✅ Kesimpulan
+
+Analisis pada sampel data ini menunjukkan bahwa dataset `Retail Store Sales` memiliki masalah kualitas data yang nyata dan perlu ditangani secara serius. Melakukan langkah-langkah pembersihan yang diuraikan di atas akan sangat penting untuk memastikan keandalan dan akurasi analisis atau model apa pun yang dibangun di atas data ini.
