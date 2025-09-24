@@ -1,5 +1,3 @@
-Link collab untuk melihat kuliatas data dari smartwatch:
-"https://colab.research.google.com/drive/1_G2NF7pkV68EkLnJDdBZXE4ZYI6GBKhP#scrollTo=COnw7JXXrNM4"
 
 [unclean_smartwatch_health_data.csv](https://github.com/user-attachments/files/22505487/unclean_smartwatch_health_data.csv)
 User ID,Heart Rate (BPM),Blood Oxygen Level (%),Step Count,Sleep Duration (hours),Activity Level,Stress Level
